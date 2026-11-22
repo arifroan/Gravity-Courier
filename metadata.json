@@ -1,0 +1,6 @@
+{
+  "name": "Gravity Courier",
+  "description": "A 3D spherical-gravity space delivery game built with Three.js where you flip gravity, jetpack across themed miniature planets, and make soft landings before the timer runs out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
